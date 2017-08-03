@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.13)  3 AUG 2017 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.13)  3 AUG 2017 10:39
 entering extended mode
 **COG_paper_draft.tex
 (COG_paper_draft.tex
@@ -381,6 +381,9 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
+(C:\Users\Daniella\Downloads\MiKTeX\tex\latex\graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
 (C:\Users\Daniella\Downloads\MiKTeX\tex\latex\tikz-cd\tikz-cd.sty
 Package: tikz-cd 2014/10/30 v0.9e Commutative diagrams with tikz
 
@@ -795,20 +798,20 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (COG_paper_draft.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
 
 (C:\Users\Daniella\Downloads\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -866,7 +869,7 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box52
-Package hyperref Info: Link coloring OFF on input line 82.
+Package hyperref Info: Link coloring OFF on input line 83.
 
 (C:\Users\Daniella\Downloads\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -876,33 +879,29 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count156
 )
-LaTeX Info: Redefining \ref on input line 82.
-LaTeX Info: Redefining \pageref on input line 82.
-LaTeX Info: Redefining \nameref on input line 82.
+LaTeX Info: Redefining \ref on input line 83.
+LaTeX Info: Redefining \pageref on input line 83.
+LaTeX Info: Redefining \nameref on input line 83.
 
 (COG_paper_draft.out) (COG_paper_draft.out)
 \@outlinefile=\write4
 
 (C:\Users\Daniella\Downloads\MiKTeX\tex\latex\oberdiek\pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
-
-(C:\Users\Daniella\Downloads\MiKTeX\tex\latex\graphics\lscape.sty
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 85.
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
 
 (C:\Users\Daniella\Downloads\MiKTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 85.
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
 
 (C:\Users\Daniella\Downloads\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 85.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 86.
 
 (C:\Users\Daniella\Downloads\MiKTeX\tex\latex\jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -910,24 +909,26 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 {C:/Users/Daniella/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 No file COG_paper_draft.bbl.
-[3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
+[3] [4] [5
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
  (COG_paper_draft.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 345.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 345.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 Package rerunfilecheck Info: File `COG_paper_draft.out' has not changed.
 (rerunfilecheck)             Checksum: 25C8D99B2B4F59E9D23C281F5266F349;342.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 348.
  ) 
 Here is how much of TeX's memory you used:
- 21702 strings out of 493673
- 419810 string characters out of 3141142
- 490047 words of memory out of 3000000
+ 21703 strings out of 493673
+ 419816 string characters out of 3141142
+ 493204 words of memory out of 3000000
  24620 multiletter control sequences out of 15000+200000
  16480 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 72i,12n,86p,477b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 72i,12n,86p,477b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Daniella\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
 00\ecti1095.pk> <C:\Users\Daniella\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
 appen\ec\dpi600\ecbx1440.pk> <C:\Users\Daniella\AppData\Local\MiKTeX\2.9\fonts\
@@ -939,9 +940,9 @@ aniella\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1728.pk
 C:/Users/Daniella/Downloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
 Users/Daniella/Downloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
 sers/Daniella/Downloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on COG_paper_draft.pdf (4 pages, 89567 bytes).
+Output written on COG_paper_draft.pdf (5 pages, 93125 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
